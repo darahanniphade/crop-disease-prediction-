@@ -1,6 +1,8 @@
 
 # 🌾 Crop Disease Detection ML Model with Flask Integration
 
+models are on drive - https://drive.google.com/drive/folders/1NbRmcgxxcOpYHrwD7LfpjZKaPq9JKDa5?usp=sharing
+
 ## 📌 Overview
 This project is a **deep learning–based crop disease detection system** trained on **55,000+ labeled images** of:
 
